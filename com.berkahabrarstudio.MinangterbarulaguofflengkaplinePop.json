@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MINANG A",
+      "image": "file:///android_asset/image/MIA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "MINANG B",
+      "image": "file:///android_asset/image/MIB.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MINANG A",
+      "title": "Badarah Ulang",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA1.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "MINANG A",
+      "title": "Janji Manjalang Rantau",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA2.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "MINANG A",
+      "title": "Malakik Hati Taraso",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA3.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "MINANG A",
+      "title": "Balaku Bana Bakato Baiak",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "MINANG A",
+      "title": "Mananti Jawek Cinto",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "MINANG A",
+      "title": "Manunggu Janji",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "MINANG A",
+      "title": "Panek Diawak Kayo Diurang",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "MINANG A",
+      "title": "Samo Samo Rindu",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "MINANG A",
+      "title": "Takabek Gadih Rantau",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "MINANG A",
+      "title": "Makan Hati",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "MINANG A",
+      "title": "Rantau Den Pan Jauh",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "MINANG A",
+      "title": "Mencari Alasan",
+      "image": "file:///android_asset/image/MIA.png",
+      "link_mp3": "mp3/MINLAKA12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "MINANG B",
+      "title": "Terbuang Ku Tak Bermakna",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "MINANG B",
+      "title": "Cinta Tak Harus Memiliki",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "MINANG B",
+      "title": "Badai Misteri",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "MINANG B",
+      "title": "Harok Kasiah Ka Suruik",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "MINANG B",
+      "title": "Impian Ruah Tanggo",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "MINANG B",
+      "title": "Rindu Sabalun Pinang",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "MINANG B",
+      "title": "Saba dalam Penantian",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "MINANG B",
+      "title": "Talambek Datang",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "MINANG B",
+      "title": "Beri Aku Maafmu",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "MINANG B",
+      "title": "Bukan Jo Cinta",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "MINANG B",
+      "title": "Cari Nan Lain",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "MINANG B",
+      "title": "Cinto Baganti Aia Mato",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "MINANG B",
+      "title": "Dek Nasib Kito Diuji",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "MINANG B",
+      "title": "Gurauan Sayang",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "MINANG B",
+      "title": "Hilang Bisiak Manjo",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "MINANG B",
+      "title": "Lah Hilang Bau Tau Raso",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "MINANG B",
+      "title": "Manangguang Rindu",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "MINANG B",
+      "title": "Niek Suci Pana Buih Janji",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "MINANG B",
+      "title": "Padiah Dilukoi",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "MINANG B",
+      "title": "Tabaok Seso",
+      "image": "file:///android_asset/image/MIB.png",
+      "link_mp3": "mp3/MINLAKA30.mp3",
+      "lyrics": ""
+	}
+  ]
+}
