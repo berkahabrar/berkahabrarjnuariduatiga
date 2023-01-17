@@ -1,0 +1,304 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "AKUSTIK A",
+      "image": "file:///android_asset/image/KA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "AKUSTIK B",
+      "image": "file:///android_asset/image/KB.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "AKUSTIK A",
+      "title": "RINDU RUMAH",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI1.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "AKUSTIK A",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI2.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "AKUSTIK A",
+      "title": "Aku Bukan Jodohnya",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI3.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "AKUSTIK A",
+      "title": "Mungkin Hari Esok Atau Nanti",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "AKUSTIK A",
+      "title": "Belum Siap Kehilangan",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "AKUSTIK A",
+      "title": "Meluksi Senja",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "AKUSTIK A",
+      "title": "Cinta Tak Harus Memiliki",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "AKUSTIK A",
+      "title": "Ibu",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "AKUSTIK A",
+      "title": "Jangan Bertengkar Lagi",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "AKUSTIK A",
+      "title": "Pujaan Hati",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "AKUSTIK A",
+      "title": "Sampai Tutup Usia",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "AKUSTIK A",
+      "title": "Sandiwara Cinta",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "AKUSTIK A",
+      "title": "Seberkas Sinar",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "AKUSTIK A",
+      "title": "Kemesraan",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "AKUSTIK A",
+      "title": "Aku Milikmu Malam Ini",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "AKUSTIK A",
+      "title": "Mengejar Matahari",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "AKUSTIK A",
+      "title": "Semua Tak Sama",
+      "image": "file:///android_asset/image/KA.png",
+      "link_mp3": "mp3/KPOTI17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "AKUSTIK  B",
+      "title": "Untuk Perempuan Dalam Pelukan",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "AKUSTIK  B",
+      "title": "Rindu Sahabat",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "AKUSTIK  B",
+      "title": "Waktu yang Salah",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "AKUSTIK  B",
+      "title": "Akad",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "AKUSTIK  B",
+      "title": "Harusnya Aku",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "AKUSTIK  B",
+      "title": "Mungkin",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "AKUSTIK  B",
+      "title": "Pupus",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "AKUSTIK  B",
+      "title": "Aku Jatuh CInta",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "AKUSTIK  B",
+      "title": "Semua Tentang Kita",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "AKUSTIK  B",
+      "title": "Ruang Rindu",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "AKUSTIK  B",
+      "title": "Diujung Jalan",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "AKUSTIK  B",
+      "title": "Cintakan Membawamu",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "AKUSTIK  B",
+      "title": "Biar Aku Yang Pergi",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "AKUSTIK  B",
+      "title": "Ada Pelangi Dimatamu",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI31.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "AKUSTIK  B",
+      "title": "Akhirnyaku Menemukanmu",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI32.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 33,
+      "name_category": "AKUSTIK  B",
+      "title": "Andaikan Kau Datang Kembali",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI33.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 34,
+      "name_category": "AKUSTIK  B",
+      "title": "Bidadari Tak Bersayap",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI34.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 34,
+      "name_category": "AKUSTIK  B",
+      "title": "Bidadari Tak Bersayap",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI35.mp3",
+      "lyrics": "Hampa"
+	},
+	{
+      "id": 34,
+      "name_category": "AKUSTIK  B",
+      "title": "Bidadari Tak Bersayap",
+      "image": "file:///android_asset/image/KB.png",
+      "link_mp3": "mp3/KPOTI36.mp3",
+      "lyrics": "Tentang Rindu"
+	}
+  ]
+}
