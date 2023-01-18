@@ -1,0 +1,316 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ANYAR",
+      "image": "file:///android_asset/image/PA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/PL.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ANYAR",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA1.mp3",
+      "lyrics": "<p>apalah arti cinta yang indah<br />apalah arti cinta dan sayang<br />selalu terhalang masalah lama<br />tentang rasa percaya</p><p><br />hati yang kujaga selalu<br />untuk dirimu yang mengeluh<br />tentang pribadi yang selalu salah<br />di pandanganmu, sayang</p><p><br />tapi ku tetap terus melangkah<br />karena ku tak mau berpisah<br />hilangkan semua curiga<br />yang membuat kita terus berjarak</p><p><br />percayalah pada diriku<br />ku kan selalu menjagamu<br />hingga akhir hidupku</p><p><br />malam bantu aku tuk luluhkan dia<br />bintang bantu aku tuk tenangkan dia<br />dari rasa cemburu, dari rasa curiga<br />karena hati ini kusimpan hanya untukmu</p><p><br />tenangkan dirimu, kau terlalu jauh<br />sebenarnya aku tak seburuk itu<br />semua perjuanganku di belakang dirimu<br />semata karena ku tak mampu hidup tanpamu</p><p><br />hooo tapi ku tetap terus melangkah<br />karena ku tak mau berpisah<br />hilangkan semua curiga<br />yang membuat kita terus berjarak</p><p><br />percayalah pada diriku<br />ku kan selalu menjagamu</p><p><br />malam bantu aku tuk luluhkan dia<br />bintang bantu aku tuk tenangkan dia<br />dari rasa cemburu, dari rasa curiga<br />karena hati ini kusimpan hanya untukmu</p><p><br />malam bantu aku tuk luluhkan dia<br />bintang bantu aku tuk tenangkan dia<br />dari rasa cemburu, dari rasa curiga<br />karena hati ini kusimpan hanya untukmu</p><p><br />diriku tak seburuk itu, di belakang dirimu<br />semata karena ku tak mampu hidup tanpamu<br />semata karena ku tak mampu hidup tanpamu</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "ANYAR",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA2.mp3",
+      "lyrics": "<p>opo ora ngerti roso ati iki<br />biyen kowe tau ngelarani<br />tatu uwes mari ora arep baleni<br />nimas, aku uwes ora sudi</p><p><br />wes sabendinane mung mikirke kowe<br />mergo aku durung iso lilo<br />aku ngaku salah kabeh dadi bubrah<br />kangmas, jujur aku wegah pisah</p><p><br />wingi aku tenanan sayang karo kowe<br />nanging ngopo sayangku dinggo dolanan kowe<br />ngapurane aku uwes gawe loro<br />sayang, tulung kowe ojo lungo</p><p><br />rungokno kangmas aku gelo<br />ninggalke kowe mergo milih wong liyo<br />pengenku iso bali dadi siji koyo wingi<br />salahku ora bakal tak baleni</p><p><br />rungokno kangmas aku gelo<br />ninggalke kowe mergo milih wong liyo<br />pengenku iso bali dadi siji koyo wingi<br />salahku ora bakal tak baleni</p><p><br />wingi aku tenanan sayang karo kowe<br />nanging ngopo sayangku dinggo dolanan kowe<br />ngapurane aku uwes gawe loro<br />sayang, tulung kowe ojo lungo</p><p><br />ceritoku karo kowe uwes tak rampungi<br />mas, aku durung ikhlas delok kabeh iki<br />cukup sewates konco aku karo kowe<br />orasah bali aku wes ora sudi<br />orasah bali aku wes ora sudi</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "ANYAR",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA3.mp3",
+      "lyrics": "<p>rungkad entek entekan<br />kelangan koe sing paling tak sayang<br />stop mencintaimu, gawe aku ngelu</p><p><br />mungkin aku terlalu cinta<br />aku terlalu sayang<br />nganti ra kroso dilarani</p><p><br />pancen kuakui kusalah<br />terlalu percoyo<br />mergo mung nyawang rupo</p><p><br />saiki aku wes sadar<br />terlalu goblok mencintaimu</p><p><br />rungkad entek entekan<br />kelangan koe sing paling tak sayang<br />bondoku melayang, tego tenan, tangis tangisan</p><p><br />rungkad entek entekan<br />tresno tulusku mung dinggo dolanan<br />stop mencintaimu, gawe aku ngelu</p><p><br />mungkin aku terlalu cinta<br />aku terlalu sayang, nganti ra kroso dilarani<br />pancen kuakui kusalah<br />terlalu percoyo, mergo mung nyawang rupo</p><p><br />saiki aku wes sadar<br />terlalu goblok mencintaimu</p><p><br />rungkad entek entekan<br />kelangan koe sing paling tak sayang<br />bondoku melayang, tego tenan, tangis tangisan</p><p><br />rungkad entek entekan<br />tresno tulusku mung dinggo dolanan<br />stop mencintaimu, gawe aku ngelu</p><p><br />rungkad entek entekan<br />kelangan koe sing paling tak sayang<br />bondoku melayang, tego tenan, tangis tangisan</p><p><br />rungkad entek entekan<br />tresno tulusku mung dinggo dolanan<br />stop mencintaimu, gawe aku ngelu<br />stop mencintaimu, gawe aku ngelu</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "ANYAR",
+      "title": "EGO",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA4.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "ANYAR",
+      "title": "TAK SELAMANYA",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "ANYAR",
+      "title": "TEGO TENAN",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA6.mp3",
+      "lyrics": "<p>tego tenan koe nglarani ati<br />koe sing tak tresnani nanging ninggalne janji<br />berharap kembali namun tersakiti<br />tak jogo roso iki, koe tego ngapusi</p><p><br />sadar aku mung tresno sliramu<br />nyatane kok gawe tatu</p><p><br />sing penting aku wes tau tulus<br />senajan atiku kok loroni terus<br />sing penting aku wes tau tresno<br />senajan akhire kok sio sio</p><p><br />berharap kembali namun tersakiti<br />tak jogo roso iki, koe tego ngapusi</p><p><br />sadar aku mung tresno sliramu<br />nyatane kok gawe tatu</p><p><br />sing penting aku wes tau tulus<br />senajan atiku kok loroni terus<br />sing penting aku wes tau tresno<br />senajan akhire kok sio sio</p><p><br />udan deres ra terang terang<br />ati ngenes raiso ilang<br />banyu kali mili ning segoro<br />koe lali karo aku sing wes tau tresno</p><p><br />sing penting aku wes tau tulus<br />senajan atiku kok loroni terus<br />sing penting aku wes tau tresno<br />senajan akhire kok sio sio</p><p><br />sing penting aku, wes tau tresno<br />senajan akhire kok sio sio<br />senajan akhire kok sio sio<br />senajan akhire kok sio sio, tego tenan</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "ANYAR",
+      "title": "TETEG ATI",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "ANYAR",
+      "title": "BANYU MORO",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "ANYAR",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "ANYAR",
+      "title": "NDAS GERIH",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "ANYAR",
+      "title": "ANGIN NDALU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "ANYAR",
+      "title": "NINGGAL CERITO",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "ANYAR",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "ANYAR",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "ANYAR",
+      "title": "YO WIS",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "ANYAR",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "ANYAR",
+      "title": "KUATNO AKU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/LOPOLA17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "SEPINE WENGI",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "SEKO OPO ATIMU",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "PERLAHAN",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "TANPO TRESNAMU",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "WONG SEPELE",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "TAK LALEKNE KOWE",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "MENEPI",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "BALIK KANAN WAE",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "YO WES MODARO",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "SUGENG NDALU",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "TAK IKHLASNO",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "AKU TENANG",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "LENGKAP",
+      "title": "KOWE LAN KENANGAN",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "LENGKAP",
+      "title": "LALEKNO",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA31.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "LENGKAP",
+      "title": "LUNGAKU",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA32.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 33,
+      "name_category": "LENGKAP",
+      "title": "SAMPAI TUWEK",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA33.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 34,
+      "name_category": "LENGKAP",
+      "title": "TEKAN SEMENE",
+      "image": "file:///android_asset/image/PL.png",
+      "link_mp3": "mp3/LOPOLA34.mp3",
+      "lyrics": ""
+	}
+  ]
+}
