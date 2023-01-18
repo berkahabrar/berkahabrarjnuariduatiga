@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BETRAND A",
+      "image": "file:///android_asset/image/BA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "BETRAND B",
+      "image": "file:///android_asset/image/BB.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BETRAND A",
+      "title": "AKU DAN MANTANMU",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO1.mp3",
+      "lyrics": "<p>Jujur aku lelah<br />Setiap mendengar kau s'lalu cerita tentang dirinya<br />Kau banding-bandingkan aku dengan mantanmu<br />Itu menjadi penyebab kita s'lalu bertengkar terus</p><p><br />Simpan, cerita masa lalumu<br />Tak usah kau ceritakan lagi<br />Cukup dia yang jadi pemenang hati<br />Lihat aku sebagai pasanganmu<br />Yang tak pernah kau hargai<br />Kuharap engkau mengerti</p><p><br />Jujur aku lelah<br />Setiap mendengar kau s'lalu cerita tentang dirinya<br />Kau banding-bandingkan aku dengan mantanmu<br />Itu menjadi penyebab kita s'lalu bertengkar terus</p><p><br />Simpan, cerita masa lalumu<br />Tak usah kau ceritakan lagi<br />Cukup dia yang jadi pemenang hati<br />Lihat aku sebagai pasanganmu<br />Yang tak pernah kau hargai<br />Kuharap engkau mengerti houo</p><p><br />Simpan, cerita masa lalumu<br />Simpan, cerita masa lalumu<br />Cukup dia yang jadi pemenang hati<br />Lihat aku sebagai pasanganmu<br />Yang tak pernah kau hargai<br />Kuharap engkau mengerti</p><p>Kau mengerti</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "BETRAND A",
+      "title": "HATI YANG LUKA",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO2.mp3",
+      "lyrics": "<p>Berulang kali aku mencoba<br />Slalu untuk mengalah<br />demi keutuhan kita berdua<br />Walau kadang sakit</p><p><br />Lihatlah tanda merah di pipi<br />Bekas gambar tanganmu<br />Sering kau lakukan<br />bila kau marah menutupi salahmu</p><p><br />Samakah aku<br />Bagai burung di sana<br />yang dijual orang<br />Hingga sesukamu<br />Kau lakukan itu<br />Kau sakiti aku</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik<br />agar kau puas membagi cinta<br />Pulangkan saja<br />Aku pada ibuku atau ayahku&hellip;</p><p><br />Dulu, segenggam emas<br />Kau pinang aku&hellip;<br />Dulu, bersumpah janji<br />di depan saksi wow wow&hellip;<br />Namun semua hilanglah sudah<br />Ditelan dusta wow wow&hellip;<br />Namun semua tinggal cerita<br />Hati yang luka&hellip;</p><p>&nbsp;<br />Biarkanlah ada duka malam ini<br />Mungkin esok kan kau jelang<br />Bahagia bersama yang lain)</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik<br />agar kau puas membagi cinta<br />Pulangkan saja<br />Aku pada ibuku atau ayahku&hellip;</p><p><br />Dulu, segenggam emas<br />Kau pinang aku&hellip;<br />Dulu, bersumpah janji<br />di depan saksi wow wow&hellip;<br />Namun semua hilanglah sudah<br />Ditelan dusta wow wow&hellip;<br />Namun semua tinggal cerita<br />hati yang luka&hellip;</p><p><br />Namun semua tinggal cerita<br />Hati yang luka</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "BETRAND A",
+      "title": "SETENGAH HATI",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO3.mp3",
+      "lyrics": "<p>Aku yang saat itu<br />Menangi hati yang salah<br />Semua kusesali kar'na cinta<br />Seharusnya yang memilih di antara</p><p><br />Kamu yang slalu ada<br />Temani dalam hatiku<br />Semua kuingkari kar'na dia<br />Ku terlanjur bersamanya<br />Bersamanya</p><p><br />Setengah hatiku masih slalu memikirkanmu<br />Ku tak bisa lagi benar-benar lupakanmu<br />Kisahku denganmu berjalan tanpamu<br />Setengah hatiku milikmu</p><p><br />Kamu yang slalu ada<br />Temani dalam hatiku<br />Semua kuingkari kar'na dia<br />Ku terlanjur bersamanya<br />Bersamanya</p><p><br />Setengah hatiku masih slalu memikirkanmu<br />Ku tak bisa lagi benar-benar lupakanmu<br />Kisahku denganmu berjalan tanpamu<br />Setengah hatiku<br />Setengah hatiku milikmu</p><p><br />Ku tak bisa lagi benar-benar lupakanmu<br />Kisahku denganmu berjalan tanpamu<br />Setengah hatiku milikmu</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "BETRAND A",
+      "title": "AYANG",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "BETRAND A",
+      "title": "SAHABAT TAK AKAN PERGI",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO5.mp3",
+      "lyrics": "<p>Sahabat, coba kita arungi<br />Lautan luas kita sebrangi<br />Gunung yang tinggi kan kita daki<br />Tak merasa letih</p><p><br />Melangkah ku ke ujung samudra<br />Karna tanpa kamu, aku hampa<br />Sahabatku di setiap langkah<br />Kau selalu ada</p><p><br />Kamu begitu berarti<br />Dan istimewa di hati<br />Selamanya rasa ini<br />Sahabat takkan terganti</p><p><br />Dan ingatlah hari ini<br />Sampai kita tua nanti<br />Sahabat tidak pernah pergi<br />Selamanya di dalam hati</p><p><br />Kau sahabatku, takkan terganti</p><p>&nbsp;</p><p>Melangkah ku ke ujung samudra<br />Karna tanpa kamu, aku hampa<br />Sahabatku di setiap langkah<br />Kau selalu ada</p><p><br />Kamu begitu berarti<br />Dan istimewa di hati<br />Selamanya rasa ini<br />Sahabat tak akan terganti</p><p><br />Dan ingatlah hari ini<br />Sampai kita tua nanti<br />Sahabat tidak pernah pergi<br />Selamanya di dalam hati</p><p><br />Sahabatku selalu di hati</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "BETRAND A",
+      "title": "SALAH MENCINTAI",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "BETRAND A",
+      "title": "SEKALI LAGI",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO7.mp3",
+      "lyrics": "<p>Masih tetap menanti<br />Setelah gelap kan terbit mentari<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Hati masih mencari alasan tuk aku tetap berdiri<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Tak terasa setelah sekian lama<br />Semua tak lagi terasa sama Yeah<br />Apakah kalian yang di sana<br />Merasakan hal yang sama?</p><p><br />Hilang semua harapan yang ada<br />Hanya tersisa luka di dada<br />Kabut menutup pandangan mata<br />Aku tetap menatap ke angkasa</p><p><br />Masih tetap menanti<br />Setelah gelap kan terbit mentari<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Hati masih mencari alasan tuk aku tetap berdiri<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Yah<br />Jatuh adalah kesempatan<br />Kalah untuk kemenangan<br />Bangkit lagi dan kerjakan<br />Semangat kita kerahkan</p><p><br />Putus asa berserahkan<br />Jangan sampai dilemahkan<br />Lupakan yang di belakang<br />Masalah bisa dipecahkan</p><p><br />Angin bawa nada-nada indah<br />Pedih bisa diobati cinta<br />Masih ada harapan tersisa<br />Kita pasti bisa<br />Kita pasti bisa</p><p><br />Musim kan selalu berganti<br />Cah'ya senantiasa kembali<br />Badai akan datang dan pergi<br />Yakinlah hati ini</p><p><br />Masih tetap menanti<br />Setelah gelap kan terbit mentari<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Hati masih mencari alasan tuk aku tetap berdiri<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p><p><br />Wo-oo-oo (Masih tetap menanti)<br />Huwo-oo-oo (Setelah gelap kan terbit mentari)<br />(Kembali melangkah nanti akan berlari)<br />Sekali lagi (Sekali lagi)<br />Sekali lagi... (Sekali lagi)</p><p><br />Hati masih mencari alasan tuk aku tetap berdiri<br />Kembali melangkah nanti akan berlari<br />Sekali lagi<br />Sekali lagi</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "BETRAND A",
+      "title": "BULAN BINTANG",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "BETRAND A",
+      "title": "CINTA KITA",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "BETRAND A",
+      "title": "KAKA MAIN SALAH",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "BETRAND A",
+      "title": "KITA SEMUA SAMA",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "BETRAND A",
+      "title": "MALAIKAT PENJAGAKU",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "BETRAND A",
+      "title": "BERHAK BAHAGIA",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "BETRAND A",
+      "title": "DERITAKU",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "BETRAND A",
+      "title": "IBUNDA",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "BETRAND A",
+      "title": "JAGA PERASAAN",
+      "image": "file:///android_asset/image/BA.png",
+      "link_mp3": "mp3/BTPOTO16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "BETRAND B",
+      "title": "PEMENANG HIDUP",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "BETRAND B",
+      "title": "SEBERKAS SINAR",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "BETRAND B",
+      "title": "TAK AKAN TERGANTI",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "BETRAND B",
+      "title": "KASIH SLOW X JAGA BAE BAE",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "BETRAND B",
+      "title": "CINTA KARENA CINTA",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "BETRAND B",
+      "title": "CINTA LUAR BIASA",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "BETRAND B",
+      "title": "HANYA RINDU",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "BETRAND B",
+      "title": "DIA",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "BETRAND B",
+      "title": "TITIP RINDU BUAT AYAH",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "BETRAND B",
+      "title": "JIKALAU KAU CINTA",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "BETRAND B",
+      "title": "SAHABAT KECIL",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "BETRAND B",
+      "title": "KERAMAT",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "BETRAND B",
+      "title": "ANAK JALANAN",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "BETRAND B",
+      "title": "ANGIN MALAM",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "BETRAND B",
+      "title": "DAMAI BERSAMAMU",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "BETRAND B",
+      "title": "MENCARI ALASAN",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 33,
+      "name_category": "BETRAND B",
+      "title": "SELAMANYA UNTUKMU",
+      "image": "file:///android_asset/image/BB.png",
+      "link_mp3": "mp3/BTPOTO30.mp3",
+      "lyrics": ""
+	}
+  ]
+}
