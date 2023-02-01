@@ -1,0 +1,275 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+			"id": 1,
+			"name_category": "DJ HITS",
+			"image": "file:///android_asset/image/DH.png"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ ASIK",
+			"image": "file:///android_asset/image/DT.png"
+		}
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "DJ HITS",
+			"title": "DJ AYAI SUSANTI",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ1.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "DJ HITS",
+			"title": "DJ IKAN DALAM KOLAM",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ2.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "DJ HITS",
+			"title": "DJ KALIH WELASKU",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ3.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "DJ HITS",
+			"title": "DJ GET OUT MY FACE",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ4.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "DJ HITS",
+			"title": "DJ CARE BEBEK",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ5.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "DJ HITS",
+			"title": "DJ MAPOPO MBONA",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ6.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "DJ HITS",
+			"title": "DJ SAYUNK I LOVE U",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ7.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "DJ HITS",
+			"title": "DJ RASAH BALI",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ8.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "DJ HITS",
+			"title": "DJ RUNGKAD",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ9.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "DJ HITS",
+			"title": "DJ EFEK GEDANG KLUTUK",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ10.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "DJ HITS",
+			"title": "DJ SATU RASA CINTA",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ11.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "DJ HITS",
+			"title": "DJ DEVILE INSIDE",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ12.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "DJ HITS",
+			"title": "DJ KORO",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ13.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "DJ HITS",
+			"title": "DJ EL PRODO",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ14.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "DJ HITS",
+			"title": "DJ BILA CINTA DI DUSTA",
+			"image": "file:///android_asset/image/DH.png",
+			"link_mp3": "mp3/SUAIYTIDJ15.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "DJ ASIK",
+			"title": "DJ TERPESONA",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ16.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "DJ ASIK",
+			"title": "DJ ADUH MAMAE ADA COWOK BAJU HITAM",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ17.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "DJ ASIK",
+			"title": "DJ GADIS BAJU MERAH",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ18.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "DJ ASIK",
+			"title": "DJ GIMANALE KO MANTAN MANISE",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ19.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "DJ ASIK",
+			"title": "DJ TERNGIANG NGIANG",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ20.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "DJ ASIK",
+			"title": "DJ JUJUR SA SUBILANG",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ21.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "DJ ASIK",
+			"title": "DJ AMPUN BANG JAGO",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ22.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "DJ ASIK",
+			"title": "DJ SARANGHAE",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ23.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "DJ ASIK",
+			"title": "DJ BUKAN PHO",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ24.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "DJ ASIK",
+			"title": "DJ KO MAU CARI",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ25.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "DJ ASIK",
+			"title": "DJ IRI BILANG BOS",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ26.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "DJ ASIK",
+			"title": "DJ DJ MANTAN DIMANALE",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ27.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "DJ ASIK",
+			"title": "DJ PLIS COBAIN JATAH MANTAN",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ28.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "DJ ASIK",
+			"title": "DJ SAYANG JANGAN MARAH MARAH",
+			"image": "file:///android_asset/image/DT.png",
+			"link_mp3": "mp3/SUAIYTIDJ29.ogg",
+			"lyrics": ""
+		}
+	]
+}
